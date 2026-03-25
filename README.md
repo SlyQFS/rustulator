@@ -4,6 +4,6 @@ It can run basic operation like plus, minus, mult and div with 2 variables.
 ---
 ```
 git clone https://github.com/SlyQFS/rustulator
-cd rustlator
+cd rustulator
 cargo build
 ```
